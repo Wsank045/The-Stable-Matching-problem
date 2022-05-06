@@ -79,7 +79,7 @@ Jackson\
 Sophia\
 1,1 2,1 3,2\
 3,2 2,2 1,3\
-1,3 3,3 2,1\
+1,3 3,3 2,1
 
 ## Output file format
 Your program must simply produces as output a textfile. If the input file is called ABC.txt then the
@@ -87,7 +87,7 @@ output file must be called matches_ABC.txt that contains the list of match pairs
 
 Match 0: Thales - Olivia\
 Match 1: Canada Post - Jackson\
-Match 2: Cisco - Sophia\
+Match 2: Cisco - Sophia
 
 You must follow this exact format in which matches are listed from 0 to n-1 (match i being the match
 for company i). Company and student names are separated by a dash symbol (-). If you do not follow
